@@ -11,16 +11,15 @@ Scraping Mongo is a web app that lest users view and leave comments on the lates
 
 2. Run `npm init`. When that's finished, install and save these npm packages:
 
-   1. express
+   * Express
 
-   2. express-handlebars
+   * Express-handlebars
 
-   3. mongoose
+   * Mongoose
 
-   4. cheerio
+   * Cheerio
 
-   5. axios
-
+   * Axios
 
 ## Instructions
 
