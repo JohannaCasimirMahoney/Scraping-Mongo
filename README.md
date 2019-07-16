@@ -1,11 +1,11 @@
 # Scraping Mongo
 
-###Overview
+### Overview
 
 Scraping Mongo is a web app that lest users view and leave comments on the latest news. But here's the catch. You'r not going to actually write any articles; instead, you'll scrape news from another site. How exciting is that. 
 
 
-###Before You Begin
+### Before You Begin
 
 1. Create a GitHub repo for this assignment and clone it to your computer. Any name will do -- just make sure it's related to this project in some fashion.
 
