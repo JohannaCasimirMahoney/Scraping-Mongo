@@ -42,7 +42,13 @@ Scraping Mongo is a web app that lest users view and leave comments on the lates
 
 ### Technology Used
 
-* HTML, CSS, Boostrap, Pure
+* HTML 
+
+* CSS 
+
+* Boostrap 
+
+* Pure
 
 * Node.js
 
