@@ -2,10 +2,75 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    
     <title>Scraping Mongo</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <style>
+        body {background-color: rgb(255, 255, 255);}
+
+/* jumbo style */
+ .jumbotron {margin-top: 20px;
+            background-color: rgb(197, 142, 142);
+            padding: 50px;
+            border: double 8px white;
+            border-radius: 50px;
+            color: black;
+            /* display: flex;
+            justify-content: center;
+            align-items: center; */
+            }
+
+/* header size */
+h1 {font-size: 60px;text-align: center}
+
+h4 {font-size: 25px;text-align: center}
+
+.nav-fill {margin-top: 10px;
+    padding: 5px;
+    border: double 8px white;
+    border-radius: 50px;
+    background-color: rgb(197, 142, 142)};
+
+    .nav-fill {margin-top: 10px;
+    padding: 5px;
+    border: double 8px white;
+    border-radius: 50px;
+    background-color: rgb(197, 142, 142)};
+    
+
+    </style>
+
+<!-- Navabar -->
+
+<div class="container">
+
+    <ul class="nav nav-pills nav-fill">
+        <li class="nav-item">
+                <a class="nav-link" href="Home">Home</a>
+              </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Scrape New Articles">Scrape New Articles</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Save Articles">Save Articles</a>
+        </li>
+        <li class="nav-item">
+                <a class="nav-link" href="Mongo Scraper">Mongo Scraper</a>
+              </li>
+      </ul>
+
+<!-- Jumbotron -->
+
+        <div class="jumbotron">
+          <h1 class="display-4">Scrapping Mongo</h1>
+          <p class="lead"><h4>BBC Travel Around The World.</h4></p>
+        </div>
+      </div>
+
+ 
+
 </head>
 <body>
-    
-</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+
+<script src="app.js"></script>
 </html>
