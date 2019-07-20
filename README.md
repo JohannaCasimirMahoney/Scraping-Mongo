@@ -9,9 +9,10 @@ Scraping Mongo is a web app that lest users view and leave comments on the lates
 
 1. Create a GitHub repo for this assignment and clone it to your computer. Any name will do -- just make sure it's related to this project in some fashion.
 
- <img width="400" height="300" src="https://github.com/JohannaCasimirMahoney/Burger-Time/blob/master/Screen%20Shot%202.png">
+ <img width="400" height="300" src="https://github.com/JohannaCasimirMahoney/Scraping-Mongo/blob/master/Screen%20Shot%202019-07-20%20at%201.50.36%20PM.png">
 
-  <img width="400" height="300" src="https://github.com/JohannaCasimirMahoney/Burger-Time/blob/master/Screen%20Shot%203.png">
+  <img width="400" height="300" src="https://github.com/JohannaCasimirMahoney/Scraping-Mongo/blob/master/Screen%20Shot%202019-07-20%20at%201.52.27%20PM.png">
+  
 
 2. Run `npm init`. When that's finished, install and save these npm packages:
 
